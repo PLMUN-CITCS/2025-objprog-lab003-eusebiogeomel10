@@ -1,6 +1,6 @@
 import java.util.Scanner; // Import Scanner class for user input
 
-public class InputOutputExample {
+public class InputOutputDemo {
     public static void main(String[] args) {
         // Create a Scanner object for input
         Scanner scanner = new Scanner(System.in);
